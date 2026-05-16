@@ -2,16 +2,13 @@
 
 > An interactive data visualization exploring how seasonal shifts shape citizen service demands in Bloomington, IN (2020–2025).
 
-**Course:** INFO I 590: Data Visualization (Fall 2025) — Indiana University Bloomington
-**Team:** Pixel and Plot
 
 ---
 
 ## 🔗 Live Visualization
 
-**[View Interactive HTML Visualization](https://drive.google.com/file/d/1JAQD1AQHE8feZa1SyJo55f1kFGCgREvu/view?usp=drive_link)**
+**[View Interactive HTML Visualization](https://idawkhar-dev.github.io/City_of_Bloomington_Viz.Proj/)**
 
-> Download the HTML file and open it in a browser for the full interactive experience.
 
 ---
 
@@ -89,8 +86,3 @@ The hybrid static + interactive approach was chosen deliberately: interactive vi
 
 ---
 
-## Team
-
-Rujul Jadav · Deeksha Bapura · Rithvik Mysore Suresh · Parvez Shaik · Ishwari Dawkhar
-
-*Team: Pixel and Plot — INFO I 590: Data Visualization, Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington*
